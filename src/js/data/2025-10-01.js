@@ -60,7 +60,7 @@ dataSet[dataSetVersion].characterData = [
   //A17
   {
     name: "蘇菲",
-    img: "Sophie_A17.png",
+    img: "Sophie_A17.jpg",
     opts: {
       Series: ["A17"]
     }
