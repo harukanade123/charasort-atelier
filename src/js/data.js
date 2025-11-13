@@ -20,4 +20,4 @@ let dataSetVersion = '';
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = 'https://harukanade123.github.io/charasort-atelier/chara/';
+const imageRoot = '/chara/';
